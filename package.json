@@ -1,0 +1,6 @@
+{
+  "name": "estructura_decontrol", 
+  "version": "1.0.0",
+  "type": "module",
+  "main": "control-structures-exercise.js"
+}
